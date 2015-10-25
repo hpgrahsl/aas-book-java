@@ -6,6 +6,7 @@ I've started with a Java version referring to chapter 4 of the book. As time per
 [DONE]
 
 - Chapter 4: Predicting Forest Cover with Decision Trees
+- Chapter 5: Anomaly Detection in Network Traffic with K-means Clustering
 
 [TODOs]
 
